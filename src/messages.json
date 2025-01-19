@@ -1,0 +1,11 @@
+[
+    {"message": "Sí."},
+    {"message": "No."},
+    {"message": "Quizás algún día."},
+    {"message": "No lo sé."},
+    {"message": "Probablemente."},
+    {"message": "Definitivamente sí."},
+    {"message": "Definitivamente no."},
+    {"message": "No preguntes eso."},
+    {"message": "Consulta de nuevo más tarde."}
+  ]
